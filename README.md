@@ -19,6 +19,6 @@ I am learning to use data analysis tools to help my work as a conservator. I am 
 ___
 If you use the data to practice, please share [here] (https://datatest.com)!
 
-![Survey card](Survey-Card-sample.jpg)
+![Survey card](/images/Survey-Card-sample.jpg)
 
 
